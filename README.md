@@ -18,14 +18,22 @@ For problems where only one divide-and-conquer version is found, implementing th
 Sorting algorithms (mergesort and quicksort) should not be used.
 
 Problems:
-1- Multiplication of two matrices.
-2- Integer multiplication.
-3- Closest pair of points
-4- Computing the n-th power of a given base (a^n).
-5- Binary search.
-6- Convex hull (QuickHull algorithm).
-7- Determining the most frequent element.
-8- Removing duplicates from a sequence.
+
+    1- Multiplication of two matrices.]
+    
+    2- Integer multiplication.
+    
+    3- Closest pair of points
+    
+    4- Computing the n-th power of a given base (a^n).
+    
+    5- Binary search.
+    
+    6- Convex hull (QuickHull algorithm).
+    
+    7- Determining the most frequent element.
+    
+    8- Removing duplicates from a sequence.
 
 
     
